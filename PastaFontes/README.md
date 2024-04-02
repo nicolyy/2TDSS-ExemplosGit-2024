@@ -1,0 +1,2 @@
+# Coloque nesta pasta apenas fontes de APP
+
